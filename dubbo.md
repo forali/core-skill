@@ -8,6 +8,8 @@
 
 综上的系统架构演变是逐层相关、逐层进化的。
 
+**dubbo：rpc远程调用框架和服务治理（负载均衡、容错、服务注册与发现、服务地址管理）框架。**
+
 ## 分布式领域知识 ##
 **角色：**
 
@@ -46,3 +48,21 @@ provider到zookeeper中注册，就是在zookeeper上创建一个dubbo持久节�
 1. rpc远程调用url管理（http://、tcp、rmi）
 2. 负载均衡
 3. 服务注册与发现
+
+
+## Dubbo协议 ##
+1. Dubbo（默认协议）
+2. http
+3. rmi
+4. redis
+5. hession
+
+Dubbox主要使用http协议+restful+json
+
+Spring cloud主要使用http协议+restful+json
+
+## dubbo和spring cloud区别 ##
+1. dubbo支持多种协议，spring cloud只支持http协议
+2. dubbo使用zookeeper做注册中心，spring cloud使用eureka
+3. spring cloud功能更加强大，有zuul网关、分布式配置中心
+
