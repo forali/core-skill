@@ -1,4 +1,4 @@
-## JDK1.8新特性之lambda和Stream ##
+## JDK1.8新特性之Lambda和Stream ##
 >参考：https://www.cnblogs.com/aoeiuv/p/5911692.html
 
 ### 一、lambda表达式 ###
@@ -296,9 +296,4 @@ Collection接口有一个stream方法，所以其所有子类都都可以获取�
 		
 		List<Integer> ints = Lists.newArrayList(1,2,3,4,5,6,7,8,9,10);
 		System.out.println("ints sum is:" + ints.stream().count());
-3. allMatch：是不是Stream中的所有元素都满足给定的匹配条件
-4. anyMatch：Stream中是否存在任何一个元素满足匹配条件
-5. findFirst: 返回Stream中的第一个元素，如果Stream为空，返回空Optional
-6. noneMatch：是不是Stream中的所有元素都不满足给定的匹配条件
-7. max和min：使用给定的比较器（Operator），返回Stream中的最大|最小值
-
+3. allMatch：是不是
