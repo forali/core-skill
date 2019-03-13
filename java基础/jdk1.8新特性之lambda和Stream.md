@@ -1,4 +1,4 @@
-## jdk1.8新特性之lambda和Stream ##
+## JDK1.8新特性之lambda和Stream ##
 >参考：https://www.cnblogs.com/aoeiuv/p/5911692.html
 
 ### 一、lambda表达式 ###
