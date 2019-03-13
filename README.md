@@ -3,7 +3,7 @@
 ## 目录
 
 ### 一、Java基础
-- [JDK1.8新特性之Lambda和Stream](https://github.com/forali/core-skill/blob/master/Java%E5%9F%BA%E7%A1%80/JDK1.8%E6%96%B0%E7%89%B9%E6%80%A7%E4%B9%8Blambda%E5%92%8CStream.md)
+- [JDK1.8新特性之Lambda和Stream](https://github.com/forali/core-skill/blob/master/Java%E5%9F%BA%E7%A1%80/JDK1.8%E6%96%B0%E7%89%B9%E6%80%A7%E4%B9%8BLambda%E5%92%8CStream.md)
 
 ### 二、设计模式
 - [代理模式](https://github.com/forali/core-skill/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F.md)
