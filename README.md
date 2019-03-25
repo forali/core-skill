@@ -3,7 +3,7 @@
 ## 目录
 
 ### 一、Java基础
-- [深入理解Java虚拟机](https://github.com/forali/core-skill/blob/master/Java%E5%9F%BA%E7%A1%80/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
+- [深入理解Java虚拟机（processing）](https://github.com/forali/core-skill/blob/master/Java%E5%9F%BA%E7%A1%80/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
 - [JDK1.8新特性之Lambda和Stream](https://github.com/forali/core-skill/blob/master/Java%E5%9F%BA%E7%A1%80/JDK1.8%E6%96%B0%E7%89%B9%E6%80%A7%E4%B9%8BLambda%E5%92%8CStream.md)
 - [Java之NIO](https://github.com/forali/core-skill/blob/master/Java%E5%9F%BA%E7%A1%80/Java%E4%B9%8BNIO.md)
 
@@ -31,5 +31,7 @@
 - [Zookeeper](https://github.com/forali/core-skill/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F/Zookeeper.md)
 - [Dubble](https://github.com/forali/core-skill/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F/SpringCloud.md)
 
-### 六、人工智能
+### 六、人工智能（processing）
 - [决策树](https://github.com/forali/core-skill/blob/master/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/%E5%86%B3%E7%AD%96%E6%A0%91.md)
+
+
