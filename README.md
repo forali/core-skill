@@ -31,7 +31,4 @@
 - [Zookeeper](https://github.com/forali/core-skill/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F/Zookeeper.md)
 - [Dubble](https://github.com/forali/core-skill/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F/SpringCloud.md)
 
-### 六、人工智能（processing）
-- [决策树](https://github.com/forali/core-skill/blob/master/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/%E5%86%B3%E7%AD%96%E6%A0%91.md)
-
 
