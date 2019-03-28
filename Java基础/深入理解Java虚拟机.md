@@ -28,7 +28,7 @@ JRE（Java Runtime Environment），支持Java程序运行的标准环境：
 
 #### 2.1、运行时数据区域
 
-​	![Java虚拟机运行时数据区.png](images\Java虚拟机运行时数据区.png)
+​	![Java虚拟机运行时数据区.png](image/Java虚拟机运行时数据区.png)
 
 ##### 2.1.1、程序计数器（Program Counter Register）
 
