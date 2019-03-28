@@ -3,10 +3,10 @@
 ## 目录
 
 ### 一、Java基础
-- [深入理解Java虚拟机（over|writting）](深入理解Java虚拟机.md)
+- [深入理解Java虚拟机（over|writting）](Java基础/深入理解Java虚拟机.md)
 - [Java并发编程实战（processing）](Java基础/Java并发编程实战.md)
-- [JDK1.8新特性之Lambda和Stream](JDK1.8新特性之Lambda和Stream.md)
-- [Java之NIO](Java之NIO.md)
+- [JDK1.8新特性之Lambda和Stream](Java基础/JDK1.8新特性之Lambda和Stream.md)
+- [Java之NIO](Java基础/Java之NIO.md)
 
 ### 二、设计模式
 - [代理模式](设计模式/代理模式.md)
