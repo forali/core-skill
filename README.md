@@ -4,7 +4,7 @@
 
 ### 一、Java基础
 - [深入理解Java虚拟机（processing）](https://github.com/forali/core-skill/blob/master/Java%E5%9F%BA%E7%A1%80/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
-- [Java并发编程实战](Java基础/Java并发编程实战)
+- [Java并发编程实战](Java基础/Java并发编程实战.md)
 - [JDK1.8新特性之Lambda和Stream](https://github.com/forali/core-skill/blob/master/Java%E5%9F%BA%E7%A1%80/JDK1.8%E6%96%B0%E7%89%B9%E6%80%A7%E4%B9%8BLambda%E5%92%8CStream.md)
 - [Java之NIO](https://github.com/forali/core-skill/blob/master/Java%E5%9F%BA%E7%A1%80/Java%E4%B9%8BNIO.md)
 
